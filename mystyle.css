@@ -1,0 +1,23 @@
+body {
+	background-color: #beccfa;
+}
+.title { 
+	color: #68b3b0;
+	border: 5px double #69b368;
+	text-align: center;
+	font-size: 50px;
+}
+.button {
+	background-color: #69b368;
+	color: #96ff94;
+	border: none;
+  	text-align: center;
+  	text-decoration: none;
+ 	display: inline-block;
+  	font-size: 16px;
+	border-radius 4px;
+	padding: 20px 60px;
+}
+.button:hover {
+	background-color: #a7d4a7;
+}
